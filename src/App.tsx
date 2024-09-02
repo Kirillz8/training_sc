@@ -19,7 +19,7 @@ function App() {
         <Header fontSize="16px">Headline</Header>
         <MainText fontSize="12px">
           Faucibus. Faucibus. Sit sit sapien sit tempusrisu ut. Sit molestie
-          ornare in venen.
+          ornare in venenn.
         </MainText>
         <div>
           <Btn btnType="primary">See more</Btn>
